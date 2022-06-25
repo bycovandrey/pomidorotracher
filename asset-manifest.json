@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "pomidorotracher/static/css/main.a5c7e4ed.css",
-    "main.js": "pomidorotracher/static/js/main.314ff382.js",
-    "index.html": "pomidorotracher/index.html",
-    "main.a5c7e4ed.css.map": "pomidorotracher/static/css/main.a5c7e4ed.css.map",
-    "main.314ff382.js.map": "pomidorotracher/static/js/main.314ff382.js.map"
+    "main.css": "/pomidorotracher/static/css/main.a5c7e4ed.css",
+    "main.js": "/pomidorotracher/static/js/main.d33d2fb8.js",
+    "index.html": "/pomidorotracher/index.html",
+    "main.a5c7e4ed.css.map": "/pomidorotracher/static/css/main.a5c7e4ed.css.map",
+    "main.d33d2fb8.js.map": "/pomidorotracher/static/js/main.d33d2fb8.js.map"
   },
   "entrypoints": [
     "static/css/main.a5c7e4ed.css",
-    "static/js/main.314ff382.js"
+    "static/js/main.d33d2fb8.js"
   ]
 }
