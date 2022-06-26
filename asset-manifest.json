@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/pomidorotracher/static/css/main.a5c7e4ed.css",
-    "main.js": "/pomidorotracher/static/js/main.d33d2fb8.js",
+    "main.css": "/pomidorotracher/static/css/main.8368b449.css",
+    "main.js": "/pomidorotracher/static/js/main.73d05e89.js",
+    "static/media/SFUIDisplay-Semibold.woff": "/pomidorotracher/static/media/SFUIDisplay-Semibold.3d90ba92e14bd029b706.woff",
+    "static/media/SFUIDisplay-Light.woff": "/pomidorotracher/static/media/SFUIDisplay-Light.70cbf532b316a0425c0e.woff",
+    "static/media/SFUIDisplay-Medium.woff": "/pomidorotracher/static/media/SFUIDisplay-Medium.691073e2b9ef80d5c702.woff",
+    "static/media/SFUIDisplay-Bold.woff": "/pomidorotracher/static/media/SFUIDisplay-Bold.111df0192eebd73b0bdf.woff",
+    "static/media/SFUIDisplay-Black.woff": "/pomidorotracher/static/media/SFUIDisplay-Black.e60fd1bcb049a32c655a.woff",
+    "static/media/SFUIDisplay-Regular.woff": "/pomidorotracher/static/media/SFUIDisplay-Regular.1b6ee1f6f9e80f37ff4e.woff",
+    "static/media/SFUIDisplay-Semibold.woff2": "/pomidorotracher/static/media/SFUIDisplay-Semibold.d3f53e856e658885ea97.woff2",
+    "static/media/SFUIDisplay-Light.woff2": "/pomidorotracher/static/media/SFUIDisplay-Light.60241fa4b412694abb65.woff2",
+    "static/media/SFUIDisplay-Medium.woff2": "/pomidorotracher/static/media/SFUIDisplay-Medium.90312d015521ff21cc61.woff2",
+    "static/media/SFUIDisplay-Bold.woff2": "/pomidorotracher/static/media/SFUIDisplay-Bold.de06fd537f47d93309ef.woff2",
+    "static/media/SFUIDisplay-Black.woff2": "/pomidorotracher/static/media/SFUIDisplay-Black.781a547683879befeb34.woff2",
+    "static/media/SFUIDisplay-Regular.woff2": "/pomidorotracher/static/media/SFUIDisplay-Regular.d5b1bd49ba459767871a.woff2",
     "index.html": "/pomidorotracher/index.html",
-    "main.a5c7e4ed.css.map": "/pomidorotracher/static/css/main.a5c7e4ed.css.map",
-    "main.d33d2fb8.js.map": "/pomidorotracher/static/js/main.d33d2fb8.js.map"
+    "main.8368b449.css.map": "/pomidorotracher/static/css/main.8368b449.css.map",
+    "main.73d05e89.js.map": "/pomidorotracher/static/js/main.73d05e89.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5c7e4ed.css",
-    "static/js/main.d33d2fb8.js"
+    "static/css/main.8368b449.css",
+    "static/js/main.73d05e89.js"
   ]
 }
