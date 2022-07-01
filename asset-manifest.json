@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pomidorotracher/static/css/main.cd419488.css",
-    "main.js": "/pomidorotracher/static/js/main.9a6bf657.js",
+    "main.css": "/pomidorotracher/static/css/main.d2faad69.css",
+    "main.js": "/pomidorotracher/static/js/main.b65299de.js",
     "static/media/SFUIDisplay-Semibold.woff": "/pomidorotracher/static/media/SFUIDisplay-Semibold.3d90ba92e14bd029b706.woff",
     "static/media/SFUIDisplay-Light.woff": "/pomidorotracher/static/media/SFUIDisplay-Light.70cbf532b316a0425c0e.woff",
     "static/media/SFUIDisplay-Medium.woff": "/pomidorotracher/static/media/SFUIDisplay-Medium.691073e2b9ef80d5c702.woff",
@@ -15,11 +15,11 @@
     "static/media/SFUIDisplay-Black.woff2": "/pomidorotracher/static/media/SFUIDisplay-Black.781a547683879befeb34.woff2",
     "static/media/SFUIDisplay-Regular.woff2": "/pomidorotracher/static/media/SFUIDisplay-Regular.d5b1bd49ba459767871a.woff2",
     "index.html": "/pomidorotracher/index.html",
-    "main.cd419488.css.map": "/pomidorotracher/static/css/main.cd419488.css.map",
-    "main.9a6bf657.js.map": "/pomidorotracher/static/js/main.9a6bf657.js.map"
+    "main.d2faad69.css.map": "/pomidorotracher/static/css/main.d2faad69.css.map",
+    "main.b65299de.js.map": "/pomidorotracher/static/js/main.b65299de.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd419488.css",
-    "static/js/main.9a6bf657.js"
+    "static/css/main.d2faad69.css",
+    "static/js/main.b65299de.js"
   ]
 }
